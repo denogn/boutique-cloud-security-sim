@@ -1,22 +1,8 @@
-boutique-cloud-security-sim/
-│
-├── README.md
-│
-├── docs/
-│   ├── architecture.md
-│   ├── build-guide.md
-│   ├── rbac-design.md
-│   ├── nsg-rules.md
-│   ├── incident-simulation.md
-│   └── incident-response-report.md
-│
-├── screenshots/
-│   ├── azure-portal/
-│   ├── vm/
-│   ├── nsg/
-│   ├── logs/
-│   └── policy/
-│
-└── diagrams/
-    ├── architecture-diagram.png
-    └── network-flow.png
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Build Guide](docs/build-guide.md)
+- [RBAC Design](docs/rbac-design.md)
+- [NSG Rules](docs/nsg-rules.md)
+- [Incident Simulation](docs/incident-simulation.md)
+- [Incident Response Report](docs/incident-response-report.md)
